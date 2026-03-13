@@ -71,8 +71,3 @@ Evaluation is performed using accuracy score and classification report.
 
 ---
 
-## Author
-
-**Siya Jain**  
-MCA (Data Science)  
-Aspiring Data Analyst / Data Scientist
